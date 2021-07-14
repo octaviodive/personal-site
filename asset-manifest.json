@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-site/static/css/main.e50b712b.chunk.css",
+    "main.js": "/personal-site/static/js/main.237b8699.chunk.js",
+    "main.js.map": "/personal-site/static/js/main.237b8699.chunk.js.map",
+    "runtime-main.js": "/personal-site/static/js/runtime-main.9fad1f0b.js",
+    "runtime-main.js.map": "/personal-site/static/js/runtime-main.9fad1f0b.js.map",
+    "static/js/2.58d5d587.chunk.js": "/personal-site/static/js/2.58d5d587.chunk.js",
+    "static/js/2.58d5d587.chunk.js.map": "/personal-site/static/js/2.58d5d587.chunk.js.map",
+    "index.html": "/personal-site/index.html",
+    "static/css/main.e50b712b.chunk.css.map": "/personal-site/static/css/main.e50b712b.chunk.css.map",
+    "static/js/2.58d5d587.chunk.js.LICENSE.txt": "/personal-site/static/js/2.58d5d587.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/personal-site/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/nucleo.css": "/personal-site/static/media/nucleo-icons.d6a66724.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fad1f0b.js",
+    "static/js/2.58d5d587.chunk.js",
+    "static/css/main.e50b712b.chunk.css",
+    "static/js/main.237b8699.chunk.js"
+  ]
+}
