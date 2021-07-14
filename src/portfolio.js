@@ -117,12 +117,21 @@ export const educationInfo = [
 
 
 export const projects = [
-  {
-    name: "Social Network",
-    desc: "A web aplication build with django",
-    link: {
-      name: "code",
-      url: "https://github.com/octaviodive/social_network_project"
-    }
-  }
-]
+    {
+      name: "Social Network",
+      desc: "This is a photo share platform build in with Django that allows user to save personal photos  in an album. It has a custom user interface and to make it simple, we won’t be using any Frontend Framework in this project. We will use HTML, CSS (Bootstrap and some custom CSS).  ",
+      link: {
+        name: "code",
+        url: "https://github.com/octaviodive/social_network_project"
+        }
+    },
+    {  
+      name: "Personal Blog",
+      desc: "Blog application with Django that allows users to create, edit, and delete posts. The homepage will list all blog posts, and there will be a dedicated detail page for each individual post. Django is capable of making more advanced stuff but making a blog is an excellent first step to get a good grasp over the framework.",
+      link: {
+        name: "code",
+        url: "https://github.com/octaviodive/blog-portfolio",
+        },
+    }  
+
+  ]
