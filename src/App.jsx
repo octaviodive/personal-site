@@ -10,9 +10,9 @@ import Projects from './containers/Projects';
 import GithubProfile from './containers/GithubProfile'
 const App = () => {
     return ( 
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Switch>
-                <Route path="/" exact render={props => (
+                <Route path="/personal-site" exact render={props => (
                     <>
                         <Navigation />
                         <Greetings/>
